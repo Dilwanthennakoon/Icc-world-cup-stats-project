@@ -1,0 +1,57 @@
+,Unnamed: 0,date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,team_2_wickets,result,pom,best_batters,best_bowlers,commentary_line,world_cup_year,host_country
+0,18,, Gqeberha,League-Match,ENG,NAM,272.0,0.0,217.0,9.0,England won by 55 runs,Jan-Berrie Burger,,,,2003,South Africa
+1,16,2003-02-19, Harare,League-Match,IND,ZIM,255.0,7.0,172.0,0.0,India won by 83 runs,Sachin Tendulkar,,,,2003,South Africa
+2,48,2003-03-14, Centurion,League-Match,NZ,IND,146.0,0.0,150.0,3.0,India won by 7 wickets (with 56 balls remaining),Zaheer Khan,,,,2003,South Africa
+3,19,2003-02-20, Potchefstroom,League-Match,AUS,NED,170.0,2.0,122.0,0.0,Australia won by 75 runs (D/L method),Damien Martyn,,,,2003,South Africa
+4,53,2003-03-23, Johannesburg,Final,AUS,IND,359.0,2.0,234.0,0.0,Australia won by 125 runs,Ricky Ponting,,,,2003,South Africa
+5,40,2003-03-04, Bulawayo,League-Match,PAK,ZIM,73.0,3.0,,,No result,,,,,2003,South Africa
+6,13,, Kimberley,League-Match,PAK,NAM,255.0,9.0,84.0,0.0,Pakistan won by 171 runs,Wasim Akram,,,,2003,South Africa
+7,50,, Durban,League-Match,KENYA,AUS,174.0,8.0,178.0,5.0,Australia won by 5 wickets (with 112 balls remaining),Aasif Karim,,,,2003,South Africa
+8,52,2003-03-20, Durban,Semi-Final,IND,KENYA,270.0,4.0,179.0,0.0,India won by 91 runs,Sourav Ganguly,,,,2003,South Africa
+9,39,, Durban,League-Match,SL,SA,268.0,9.0,229.0,6.0,Match tied (D/L method),Marvan Atapattu,,,,2003,South Africa
+10,22,, Cape Town,League-Match,ENG,PAK,246.0,8.0,134.0,0.0,England won by 112 runs,James Anderson,,,,2003,South Africa
+11,1,2003-02-10, Harare,League-Match,ZIM,NAM,340.0,2.0,104.0,5.0,Zimbabwe won by 86 runs (D/L method),Craig Wishart,,,,2003,South Africa
+12,11,, Cape Town,League-Match,CAN,KENYA,197.0,0.0,198.0,6.0,Kenya won by 4 wickets (with 9 balls remaining),Thomas Odoyo,,,,2003,South Africa
+13,30,2003-02-27, Potchefstroom,League-Match,AUS,NAM,301.0,6.0,45.0,0.0,Australia won by 256 runs,Glenn McGrath,,,,2003,South Africa
+14,26,, Bulawayo,League-Match,ZIM,AUS,246.0,9.0,248.0,3.0,Australia won by 7 wickets (with 15 balls remaining),Andy Blignaut,,,,2003,South Africa
+15,29,, Durban,League-Match,IND,ENG,250.0,9.0,168.0,0.0,India won by 82 runs,Ashish Nehra,,,,2003,South Africa
+16,28,2003-02-26, Kimberley,League-Match,BAN,NZ,198.0,7.0,199.0,3.0,New Zealand won by 7 wickets (with 99 balls remaining),Craig McMillan,,,,2003,South Africa
+17,35,, Centurion,League-Match,PAK,IND,273.0,7.0,276.0,4.0,India won by 6 wickets (with 26 balls remaining),Sachin Tendulkar,,,,2003,South Africa
+18,38,, Bloemfontein,League-Match,NED,NAM,314.0,4.0,250.0,0.0,Netherlands won by 64 runs,Feiko Kloppenburg,,,,2003,South Africa
+19,31,, East London,League-Match,SA,CAN,254.0,8.0,136.0,5.0,South Africa won by 118 runs,Boeta Dippenaar,,,,2003,South Africa
+20,15,2003-02-18, Benoni,League-Match,WI,BAN,244.0,9.0,32.0,2.0,No result,,,,,2003,South Africa
+21,27,2003-02-25, Paarl,League-Match,PAK,NED,253.0,9.0,156.0,0.0,Pakistan won by 97 runs,Mohammad Yousuf,,,,2003,South Africa
+22,45,2003-03-10, Johannesburg,League-Match,IND,SL,292.0,6.0,109.0,0.0,India won by 183 runs,Javagal Srinath,,,,2003,South Africa
+23,20,2003-02-21, Nairobi (Gym),League-Match,KENYA,NZ,,,,,Kenya won (walkover without a ball bowled),,,,,2003,South Africa
+24,9,2003-02-14, Pietermaritzburg,League-Match,BAN,SL,124.0,0.0,126.0,0.0,Sri Lanka won by 10 wickets (with 173 balls remaining),Chaminda Vaas,,,,2003,South Africa
+25,14,, Johannesburg,League-Match,SA,NZ,306.0,6.0,229.0,1.0,New Zealand won by 9 wickets (with 13 balls remaining) (D/L method),Stephen Fleming,,,,2003,South Africa
+26,25,2003-02-24, Nairobi (Gym),League-Match,KENYA,SL,210.0,9.0,157.0,0.0,Kenya won by 53 runs,Collins Obuya,,,,2003,South Africa
+27,21,2003-02-22, Bloemfontein,League-Match,BAN,SA,108.0,0.0,109.0,0.0,South Africa won by 10 wickets (with 228 balls remaining),Makhaya Ntini,,,,2003,South Africa
+28,42,2003-03-07, Centurion,League-Match,AUS,SL,319.0,5.0,223.0,0.0,Australia won by 96 runs,Ricky Ponting,,,,2003,South Africa
+29,10,2003-02-15, Centurion,League-Match,IND,AUS,125.0,0.0,128.0,1.0,Australia won by 9 wickets (with 166 balls remaining),Jason Gillespie,,,,2003,South Africa
+30,33,, Cape Town,League-Match,SL,WI,228.0,6.0,222.0,9.0,Sri Lanka won by 6 runs,Chaminda Vaas,,,,2003,South Africa
+31,47,2003-03-12, Bloemfontein,League-Match,ZIM,KENYA,133.0,0.0,135.0,3.0,Kenya won by 7 wickets (with 144 balls remaining),Martin Suji,,,,2003,South Africa
+32,12,2003-02-16, East London,League-Match,NED,ENG,142.0,9.0,144.0,4.0,England won by 6 wickets (with 160 balls remaining),James Anderson,,,,2003,South Africa
+33,51,2003-03-18, Gqeberha,Semi-Final,AUS,SL,212.0,7.0,123.0,7.0,Australia won by 48 runs (D/L method),Andrew Symonds,,,,2003,South Africa
+34,20,2003-02-21, Nairobi (Gym),League-Match,KENYA,NZ,,,,,Kenya won (walkover without a ball bowled),,,,,2003,South Africa
+35,47,2003-03-12, Bloemfontein,League-Match,ZIM,KENYA,133.0,0.0,135.0,3.0,Kenya won by 7 wickets (with 144 balls remaining),Martin Suji,,,,2003,South Africa
+36,0,2003-02-09, Cape Town,League-Match,WI,SA,278.0,5.0,275.0,9.0,West Indies won by 3 runs,Brian Lara,,,,2003,South Africa
+37,43,, Cape Town,League-Match,KENYA,IND,225.0,6.0,226.0,4.0,India won by 6 wickets (with 13 balls remaining),Sourav Ganguly,,,,2003,South Africa
+38,46,2003-03-11, Gqeberha,League-Match,AUS,NZ,208.0,9.0,112.0,0.0,Australia won by 96 runs,Shane Bond,,,,2003,South Africa
+39,8,, Gqeberha,League-Match,NZ,WI,241.0,7.0,221.0,0.0,New Zealand won by 20 runs,Andre Adams,,,,2003,South Africa
+40,6,, Paarl,League-Match,IND,NED,204.0,0.0,136.0,0.0,India won by 68 runs,Tim de Leede,,,,2003,South Africa
+41,37,2003-03-03, Benoni,League-Match,CAN,NZ,196.0,0.0,197.0,5.0,New Zealand won by 5 wickets (with 162 balls remaining),John Davison,,,,2003,South Africa
+42,4,, Durban,League-Match,CAN,BAN,180.0,0.0,120.0,0.0,Canada won by 60 runs,Austin Codrington,,,,2003,South Africa
+43,5,2003-02-12, Potchefstroom,League-Match,KENYA,SA,140.0,0.0,142.0,0.0,South Africa won by 10 wickets (with 172 balls remaining),Lance Klusener,,,,2003,South Africa
+44,24,, Pietermaritzburg,League-Match,IND,NAM,311.0,2.0,130.0,0.0,India won by 181 runs,Sachin Tendulkar,,,,2003,South Africa
+45,49,2003-03-15, East London,League-Match,SL,ZIM,256.0,5.0,182.0,0.0,Sri Lanka won by 74 runs,Marvan Atapattu,,,,2003,South Africa
+46,7,2003-02-13, Harare,League-Match,ZIM,ENG,,,,,Zimbabwe won (walkover without a ball bowled),,,,,2003,South Africa
+47,36,2003-03-02, Gqeberha,League-Match,ENG,AUS,204.0,8.0,208.0,8.0,Australia won by 2 wickets (with 2 balls remaining),Andy Bichel,,,,2003,South Africa
+48,32,2003-02-28, Bulawayo,League-Match,ZIM,NED,301.0,8.0,202.0,9.0,Zimbabwe won by 99 runs,Heath Streak,,,,2003,South Africa
+49,34,2003-03-01, Johannesburg,League-Match,KENYA,BAN,217.0,7.0,185.0,0.0,Kenya won by 32 runs,Maurice Odumbe,,,,2003,South Africa
+50,23,2003-02-23, Centurion,League-Match,CAN,WI,202.0,0.0,206.0,3.0,West Indies won by 7 wickets (with 177 balls remaining),John Davison,,,,2003,South Africa
+51,2,, Bloemfontein,League-Match,SL,NZ,272.0,7.0,225.0,0.0,Sri Lanka won by 47 runs,Sanath Jayasuriya,,,,2003,South Africa
+52,3,2003-02-11, Johannesburg,League-Match,AUS,PAK,310.0,8.0,228.0,0.0,Australia won by 82 runs,Andrew Symonds,,,,2003,South Africa
+53,44,2003-03-08, Bloemfontein,League-Match,ZIM,NZ,252.0,7.0,253.0,4.0,New Zealand won by 6 wickets (with 16 balls remaining),Nathan Astle,,,,2003,South Africa
+54,17,, Paarl,League-Match,CAN,SL,36.0,0.0,37.0,1.0,Sri Lanka won by 9 wickets (with 272 balls remaining),Prabath Nissanka,,,,2003,South Africa
+55,41,, Kimberley,League-Match,WI,KENYA,246.0,7.0,104.0,0.0,West Indies won by 142 runs,Vasbert Drakes,,,,2003,South Africa
